@@ -1,0 +1,7 @@
+specVersion: '2.3'
+metadata:
+  name: ui5-middleware-ts
+kind: extension
+type: server-middleware
+middleware:
+  path: lib/ui5-middleware-ts.js

@@ -1,0 +1,19 @@
+{
+  "name": "ui5-middleware-ts",
+  "version": "0.0.1",
+  "description": "Transpile TS to UI5 Component via UI5 CLI",
+  "main": "lib/ui5-middleware-ts",
+  "scripts": {},
+  "author": "Pascal Maximilian Bremer",
+  "license": "MIT",
+  "ui5": {
+    "dependencies": []
+  },
+  "dependencies": {
+    "ui5-ts-amd": "^0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bomberus/ui5-middleware-ts"
+  }
+}
