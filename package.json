@@ -1,6 +1,6 @@
 {
   "name": "ui5-middleware-ts",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Transpile TS to UI5 Component via UI5 CLI",
   "main": "lib/ui5-middleware-ts",
   "scripts": {},
